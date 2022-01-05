@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joseph-cv
+- 👀 I’m interested in exploring new horizons
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on IA projects
+- 📫 How to reach me ...
